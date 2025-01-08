@@ -2,7 +2,7 @@
 - 👀 I am interested in the field of Big Data and AI.
 - 🌱 I am currently learning Software testing as a Quality Assuarance, Quality Engineer.
 - 💞️ I am looking  forward to collaborate on Software Testing  Projects.
-- 📫 How to reach me:phone contact +254795561911 or email-samwelwachira71 @gmail.com
+- 📫 How to reach me:email-samwelwachira71 @gmail.com
 - 😄 Pronouns:He
 - ⚡ Fun fact:Technical Writer.
 
