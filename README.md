@@ -1,13 +1,14 @@
 Hi there 👋 
 
-I am a results-driven Quality Assurance Engineer with a proven ability to deliver high-quality products. I possess a strong foundation in QA methodologies and best practices, combining technical proficiency with exceptional communication skills. I collaborate seamlessly with stakeholders from diverse functional teams to ensure comprehensive testing and product quality.
+I am a data driven Engineer with proven succes in designing, developing and optimizing efficient data pipelines and data solutions. I am proficient in data engineering concepts, ETL/ELT techniques, database administration and cloud data technologies along with analytical and prolem-solving capabilities.
 
 
 - 🔭 Programming Languages: Python, JavaScript, TypeScript.
-- 🔭 Tools: Git, PostMan, Jira, Selenium.
-- 🔭 Frameworks: Cypress, Jest.
-- 🔭 QA Methodologies: Agile Testing, Continous Integration/Continous Delivery (CI/CD) pipelines, Test Driven Development.
-- 👀 Ask me about Software Testing Methodologies and Life Cycle.
+- 🔭 Data Engineering Tools: Git,Apache Airflow,Apache Kafka PostMan, Jira.
+- 🔭 Databases: PostgreSQL,MySQL,Oracle DB,Cloud Data platforms.
+- 🔭 Frameworks and technologies: Pandas,PySpark,ELT/ETL Pipelines, REST API's
+- 🔭Data Engineering Practices: Data Pipeline Development, Data Warehousing, Workflow Automation, CI/CD Pipelines, Data Quality Management, Agile Methodologies.
+- 👀 Ask me about Data Engineering and Quality management.
 - 📫 How to reach me: email: samwelwachira71@gmail.com, https://x.com/wachira_samuell ,https://www.linkedin.com/in/samuel-wachira-7902b4335/
 
 
