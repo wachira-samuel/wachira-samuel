@@ -1,9 +1,9 @@
 Hi there 👋 
 
-I am a data driven Engineer with proven succes in designing, developing and optimizing efficient data pipelines and data solutions. I am proficient in data engineering concepts, ETL/ELT techniques, database administration and cloud data technologies along with analytical and prolem-solving capabilities.
+I am a data driven Engineer with proven succes in designing, developing and optimizing efficient data pipelines and data solutions in fin-tech and banking. I am proficient in data engineering concepts, ETL/ELT techniques, database administration and cloud data technologies along with analytical and prolem-solving capabilities.
 
 
-- 🔭 Programming Languages: Python, JavaScript, TypeScript.
+- 🔭 Programming Languages: Python, JavaScript, Scala
 - 🔭 Data Engineering Tools: Git,Apache Airflow,Apache Kafka PostMan, Jira.
 - 🔭 Databases: PostgreSQL,MySQL,Oracle DB,Cloud Data platforms.
 - 🔭 Frameworks and technologies: Pandas,PySpark,ELT/ETL Pipelines, REST API's
