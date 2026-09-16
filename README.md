@@ -8,7 +8,7 @@ I am a Data Engineer skilled in designing and maintaining scalable data pipeline
 - 🔭 Frameworks and technologies: Pandas,PySpark,ELT/ETL Pipelines, REST API's
 - 🔭Data Engineering Practices: Data Pipeline Development, Data Warehousing, Workflow Automation, CI/CD Pipelines, Data Quality Management.
 - 👀 Ask me about Data Engineering and Quality management.
-- 📫 How to reach me: email: samwelwachira71@gmail.com, https://x.com/wachira_samuell ,https://www.linkedin.com/in/samuel-wachira-7902b4335/
+- 📫 How to reach me: email: samwelwachira71@gmail.com,
 - Currently Exploring: Kubernetes, Terraform, Infrastructure as code, Cloud-native Data Platforms
 
 
